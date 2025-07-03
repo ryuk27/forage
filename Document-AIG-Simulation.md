@@ -103,6 +103,7 @@ if __name__ == "__main__":
 ### 🔓 Decryption Result:
 - **Password successfully found:** `SPONGEBOB`
 - File successfully decrypted without paying ransom.
+![Decryption] (image/Screentshot (7).png)
 
 ---
 
