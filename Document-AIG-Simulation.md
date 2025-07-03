@@ -44,21 +44,21 @@ Hello John Doe,
 
 We are writing to alert you of a critical security vulnerability recently identified in the Apache Log4j logging library, which is present in the Product Development Staging Environment.
 
-### ⚠️ Vulnerability Overview  
+Vulnerability Overview  
 Apache Log4j (versions 2.0-beta9 to 2.14.1) contains a severe Remote Code Execution (RCE) vulnerability, widely known as Log4Shell. The flaw arises from unsafe usage of the Java Naming and Directory Interface (JNDI), which allows attackers to inject arbitrary lookup requests via specially crafted log messages.
 
-### 🔍 Risk & Exploitation  
+Risk & Exploitation  
 - Public exploit code is widely available.  
 - Exploitation began as early as December 1, 2021.  
 - Attackers can leverage malicious LDAP, DNS, and other JNDI endpoints to trigger the vulnerability.  
 
-### 🔧 Recommended Remediation  
+Recommended Remediation  
 1. Upgrade Log4j to the latest version (2.17.0 or higher).  
 2. Upgrade Java 7 to Java 8 if required.  
 3. Review logs and firewall activity for signs of exploitation.  
 4. Inform users of the affected service.
 
-### ✅ Confirmation Plan  
+Confirmation Plan  
 A follow-up vulnerability check will be scheduled once remediation is confirmed.
 
 Kind regards,  
