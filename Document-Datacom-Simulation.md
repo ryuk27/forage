@@ -87,5 +87,3 @@ The client, concerned about its information system’s integrity and security, r
 
 ### 🧾 Report Status
 Detailed XLSX report file edited and attached in repo.
-
-**Prepared by:** Cybersecurity Consultant @ Datacom Virtual Experience  
