@@ -86,5 +86,5 @@ The client, concerned about its information system’s integrity and security, r
 - Enforce Principle of Least Privilege (PoLP)
 
 ### 🧾 Report Status
-Detailed XLSX report file edited and attached [here](./Risk%20Assessment-Datacom%20Task%202.xlsx)
+Detailed XLSX report file edited and attached [here](./Risk%20Assessment-Datacom%20Task%202.xlsx).
 
