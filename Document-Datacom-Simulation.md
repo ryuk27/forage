@@ -16,7 +16,7 @@ Conduct OSINT research on APT34 and apply the MITRE ATT&CK framework to:
 - Determine affected industries and motives
 - Suggest mitigation strategies
 
-### ✅ Enhanced Report: APT34 (OILRIG)
+### ✅ Report: APT34 (OILRIG)
 
 **🕰️ History**  
 APT34, aka OILRIG, has operated since at least 2014, conducting long-term cyber-espionage operations across the Middle East.
